@@ -1,5 +1,7 @@
-#LAB 0
+#LAB 1
 ##NAME_1
+
+
 ![Image 1](https://github.com/kimloi1/lab/blob/main/lab1/lab1(1).png)
 
 ![Image 2](https://github.com/kimloi1/lab/blob/main/lab1/lab1(2).png)
