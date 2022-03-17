@@ -19,3 +19,5 @@
 ![Image 7](https://github.com/kimloi1/lab/blob/main/lab1/lab1(6).png)
 
 ![Image 8](https://github.com/kimloi1/lab/blob/main/lab1/lab1(8).png)
+
+![Image 9](https://github.com/kimloi1/lab/blob/main/lab1/lab1(9).png)
